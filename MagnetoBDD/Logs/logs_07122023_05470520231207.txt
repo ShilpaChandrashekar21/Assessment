@@ -1,0 +1,13 @@
+2023-12-07 17:47:23.944 +05:30 [INF] Searching for product
+2023-12-07 17:47:24.147 +05:30 [INF] Searching product - success
+2023-12-07 17:47:24.147 +05:30 [INF] Searching product  Passed
+2023-12-07 17:47:26.857 +05:30 [INF] Selecting product
+2023-12-07 17:47:27.141 +05:30 [INF] Selected product - success
+2023-12-07 17:47:27.141 +05:30 [INF] Selected product  Passed
+2023-12-07 17:47:27.232 +05:30 [INF] Choosing size
+2023-12-07 17:47:27.291 +05:30 [INF] Choosing color
+2023-12-07 17:47:27.355 +05:30 [INF] Clicked on add to cart button
+2023-12-07 17:47:30.449 +05:30 [INF] Clicked on  cart button
+2023-12-07 17:47:42.065 +05:30 [INF] Clicked on Procced to checkout button
+2023-12-07 17:47:42.322 +05:30 [INF] Checkout product - success
+2023-12-07 17:47:42.322 +05:30 [INF] Checkout product  Passed

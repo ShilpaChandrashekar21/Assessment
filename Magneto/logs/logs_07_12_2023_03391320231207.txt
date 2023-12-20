@@ -1,0 +1,11 @@
+2023-12-07 15:39:14.719 +05:30 [INF] Selecting from category on navbar
+2023-12-07 15:39:15.069 +05:30 [INF] Selecting from inside selcted category on navbar
+2023-12-07 15:39:17.352 +05:30 [INF] Selecting product-category from inside selcted category on navbar
+2023-12-07 15:39:17.594 +05:30 [INF] Required field check- success
+2023-12-07 15:39:17.596 +05:30 [INF] Required field check   Passed
+2023-12-07 15:39:17.654 +05:30 [INF] Choosing filter By Size
+2023-12-07 15:39:19.363 +05:30 [INF] Filtering By Size
+2023-12-07 15:39:21.433 +05:30 [INF] Selecting product after filtering
+2023-12-07 15:39:21.527 +05:30 [INF] Clicked on add to cart
+2023-12-07 15:39:21.809 +05:30 [INF] Required field check- success
+2023-12-07 15:39:21.809 +05:30 [INF] Required field check   Passed
